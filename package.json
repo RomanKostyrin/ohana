@@ -1,0 +1,23 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Kostyrin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/preset-env": "^7.14.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "mysql": "^2.18.1"
+  }
+}

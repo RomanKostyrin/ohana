@@ -1,0 +1,32 @@
+.h1 {
+  color: red;
+}
+
+.form {
+  border: 1px solid black;
+  display: block;
+  padding: 20px;
+  min-width: 200px;
+}
+
+.value {
+  padding: 20px;
+  min-width: 200px;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid #69c;
+}
+
+th {
+  min-width: 40px;
+}
+
+td:first-of-type {
+  text-align: left;
+}
